@@ -1,6 +1,6 @@
 # SSAFY 서울 3기 12반 Algo-study
 
-## Development environment
+## **Development environment**
 
 * Programming Language
   * Java
@@ -42,12 +42,17 @@
     * 문제를 풀 때 발생한 **[issue]** 에 대해 논의하여 Readme에 정리한다.
   * 좋은 코드에 대한 분석 공유
 
+---
+
 * ### 파일 저장 양식
 
-  * Package: Baekjoon, SWEA
+  * Package: baekjoon, swea
   * File Name: 
     * BJ_문제번호__푼사람
     * SWEA_문제번호__푼사람
 
----
+* ### Git Commit Message Rule
+
+  * 생성: Create 사이트 번호 이름
+  * 풀이 완료: Solve 사이트 번호 이름
 
