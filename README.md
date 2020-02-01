@@ -48,8 +48,8 @@
 
   * Package: baekjoon, swea
   * File Name: 
-    * BJ_문제번호__푼사람
-    * SWEA_문제번호__푼사람
+    * BJ_문제번호_푼사람_yymmdd
+    * SWEA_문제번호_푼사람_yymmdd
 
 * ### Git Commit Message Rule
 
