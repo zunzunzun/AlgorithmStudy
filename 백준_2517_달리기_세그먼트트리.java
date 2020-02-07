@@ -94,17 +94,3 @@ public class Main {
 		return height;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
